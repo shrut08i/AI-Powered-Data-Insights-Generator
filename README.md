@@ -1,1 +1,3 @@
 # AI-Powered-Data-Insights-Generator
+
+An AI assistant that generates insightful data visualizations and analysis summaries based on provided datasets. This tool leverages LLMs to interpret data patterns, provide meaningful narratives, and automatically create visuals that best represent the data.
